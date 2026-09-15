@@ -7,7 +7,7 @@
             "id": "f526d7e8-1a54-459a-8427-de09bd37af03",
             "actions": [
                 {
-                    "name": "Interact-Item",
+                    "name": "Interact_Item",
                     "type": "Button",
                     "id": "b3de25bd-8e0e-420c-baaf-385d3c738acd",
                     "expectedControlType": "",
@@ -17,7 +17,7 @@
                     "priority": 0
                 },
                 {
-                    "name": "Attack-Action",
+                    "name": "Attack_Action",
                     "type": "Button",
                     "id": "156462c4-a98c-4565-b1ab-2aae2f99ee11",
                     "expectedControlType": "",
@@ -27,7 +27,7 @@
                     "priority": 0
                 },
                 {
-                    "name": "Movement-Action",
+                    "name": "Movement_Action",
                     "type": "Value",
                     "id": "a0d6661b-a007-422a-bed0-ebf92a8725e1",
                     "expectedControlType": "Vector2",
@@ -45,7 +45,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Interact-Item",
+                    "action": "Interact_Item",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -56,7 +56,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Attack-Action",
+                    "action": "Attack_Action",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -67,7 +67,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Movement-Action",
+                    "action": "Movement_Action",
                     "isComposite": true,
                     "isPartOfComposite": false
                 },
@@ -78,7 +78,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Movement-Action",
+                    "action": "Movement_Action",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -89,7 +89,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Movement-Action",
+                    "action": "Movement_Action",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -100,7 +100,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Movement-Action",
+                    "action": "Movement_Action",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -111,7 +111,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Movement-Action",
+                    "action": "Movement_Action",
                     "isComposite": false,
                     "isPartOfComposite": true
                 }
